@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+  <!-- Cube isometric mark: 3 faces suggesting structure & risk layers -->
+  <!-- Top face -->
+  <polygon points="40,8 68,24 40,40 12,24" fill="#FF6B1A"/>
+  <!-- Left face -->
+  <polygon points="12,24 40,40 40,64 12,48" fill="#1A1A1A"/>
+  <!-- Right face -->
+  <polygon points="68,24 40,40 40,64 68,48" fill="#CC4A00"/>
+  <!-- Inner accent line: diagonal risk vector -->
+  <line x1="40" y1="8" x2="40" y2="64" stroke="#FFFFFF" stroke-width="1.5" stroke-dasharray="4 3" opacity="0.5"/>
+</svg>
